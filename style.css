@@ -1,4 +1,7 @@
-
+/*
+Implemented a style of 60px top margin so that the jumbotron won't
+stick to the top. We'll simply only have a small grey box in a white background
+*/
 body {
   margin-top: 60px;
 }
